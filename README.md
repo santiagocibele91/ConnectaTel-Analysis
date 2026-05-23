@@ -59,3 +59,11 @@ Para impactar el negocio, el análisis propone tres estrategias directas y accio
 
 ---
 *Análisis desarrollado como parte del proyecto de evaluación de comportamiento del cliente de ConnectaTel (2024).*
+Cómo reproducir el proyecto", que indique cómo ejecutar el notebook. Por ejemplo:
+
+## ▶️ Cómo ejecutar el proyecto
+
+1. Clona este repositorio
+2. Instala las dependencias: `pip install pandas numpy matplotlib seaborn`
+3. Abre el notebook `connectatel_analysis.ipynb` en Jupyter
+4. Ejecuta las celdas en orden
